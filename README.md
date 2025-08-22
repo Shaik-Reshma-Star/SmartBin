@@ -1,4 +1,4 @@
-# SmartBin
+# SmartBin(prototype)
 Dispose Right- Earn Rewards
 
 ## 🌍 Project Overview
